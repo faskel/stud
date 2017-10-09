@@ -131,7 +131,7 @@ int main() {
     q.show();
     cout<<q.Sum();
 
-    // cout << "bye bye" << endl;
+    cout << "bye bye" << endl;
     closedir(dfd);
 
 
